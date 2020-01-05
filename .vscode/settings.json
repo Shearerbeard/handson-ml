@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "ml/bin/python",
+    "python.dataScience.jupyterServerURI": "http://0.0.0.0:8080"
+}
